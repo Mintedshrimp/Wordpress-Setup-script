@@ -203,4 +203,4 @@ curl -L https://raw.githubusercontent.com/Mintedshrimp/Wordpress-Setup-script/re
 This will:
 
 1. Download wordpress.sh from your GitHub repo
-2. Run Servers
+2. Run it with bash
