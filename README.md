@@ -12,6 +12,7 @@ One-click WordPress setup for Termux on Android. No manual configuration needed.
 ## Quick Install
 
 Run this command in Termux:
+```
 
 ```bash
 curl -L https://raw.githubusercontent.com/Mintedshrimp/Wordpress-Setup-script/refs/heads/main/wordpress.sh -o wordpress.sh && bash wordpress.sh
